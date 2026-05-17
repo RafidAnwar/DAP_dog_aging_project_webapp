@@ -1,0 +1,6 @@
+.idea/
+*.exe
+*.cmd
+__pycache__/
+*.pyc
+.git/
