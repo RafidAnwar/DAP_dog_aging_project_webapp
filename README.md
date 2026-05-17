@@ -27,10 +27,10 @@ Then open **http://localhost:8501**
 ## Usage Guide
 - Select the analysis you want to run.
   
-#Cognitive dysfunction prediction:
+**Cognitive dysfunction prediction:**
 - Complete all questionnaires about your dog. Depending on the dogs condition, you may need observe for 6 months and then answer 6 more followup questions.
   
-#Disease regression analysis:
+**Disease regression analysis:**
 - Choose your dog breed.
 - Select a disease and choose either one or more variables.
 
@@ -39,3 +39,8 @@ Then open **http://localhost:8501**
 ## Tech Stack
 
 Python · Streamlit · Docker · Azure App Service
+
+<img width="975" height="374" alt="image" src="https://github.com/user-attachments/assets/6ec24864-ced5-47e9-b0e0-a5ee23516efa" />
+
+<img width="975" height="865" alt="image" src="https://github.com/user-attachments/assets/b3041261-55e8-4ec3-a07e-756b4dbb84bd" />
+
