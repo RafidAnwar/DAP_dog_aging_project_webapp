@@ -26,8 +26,10 @@ Then open **http://localhost:8501**
 
 ## Usage Guide
 - Select the analysis you want to run.
+  
 #Cognitive dysfunction prediction:
 - Complete all questionnaires about your dog. Depending on the dogs condition, you may need observe for 6 months and then answer 6 more followup questions.
+  
 #Disease regression analysis:
 - Choose your dog breed.
 - Select a disease and choose either one or more variables.
