@@ -11,7 +11,7 @@ This project addresses these challenges through two core achievements: (1) deliv
 
 **Cognitive Dysfunction Prediction** — answer a short questionnaire about your dog and get an instant cognitive health score. If the result is borderline, a 6-month follow-up assessment is unlocked to track changes over time.
 
-**Disease Regression Analysis** — select any of 9 diseases (cancer, cardiac, kidney, etc.) and explore how diet, physical activity, behaviour, or environment statistically affects disease odds. Only significant results (p < 0.05) are shown, with plain-English recommendations.
+**Disease Regression Analysis** — select your dog breed and find out which disease is most common for your dog. Then select any of 9 diseases (cancer, cardiac, kidney, etc.) and explore how diet, physical activity, behaviour, or environment statistically affects disease odds and get personalized suggestions. 
 
 ## Running the App
 
@@ -26,9 +26,9 @@ Then open **http://localhost:8501**
 
 ## Usage Guide
 - Select the analysis you want to run.
-Cognitive dysfunction prediction:
+**Cognitive dysfunction prediction:**
 - Complete all questionnaires about your dog. Depending on the dogs condition, you may need observe for 6 months and then answer 6 more followup questions.
-Disease regression analysis:
+**Disease regression analysis:**
 - Choose your dog breed.
 - Select a disease and choose either one or more variables.
 
