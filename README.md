@@ -1,4 +1,4 @@
-# 🐕 Dog Aging Project — Analytic Avengers
+# 🐕 DAP by Analytic Avengers
 
 A web app that predicts canine cognitive dysfunction and analyses disease risk factors using 40,000+ samples from the [Dog Aging Project](https://dogagingproject.org).
 
@@ -26,9 +26,9 @@ Then open **http://localhost:8501**
 
 ## Usage Guide
 - Select the analysis you want to run.
-**Cognitive dysfunction prediction:**
+#Cognitive dysfunction prediction:
 - Complete all questionnaires about your dog. Depending on the dogs condition, you may need observe for 6 months and then answer 6 more followup questions.
-**Disease regression analysis:**
+#Disease regression analysis:
 - Choose your dog breed.
 - Select a disease and choose either one or more variables.
 
